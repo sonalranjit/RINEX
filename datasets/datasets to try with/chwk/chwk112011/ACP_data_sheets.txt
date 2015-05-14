@@ -1,0 +1,88 @@
+NRCan GSD - ACP Report
+
+***********************************************
+CANADIAN ACTIVE CONTROL SYSTEM
+ACTIVE CONTROL POINT (NAD83CSRS)
+***********************************************
+
+SITE IDENTIFICATION
+
+Site name : CHILLIWACK
+ID code : CHWK
+Geodetic Station No : 987020
+Location : Chilliwack, BC
+
+(Complete WCDA station log sheets available here: ftp://wcda.pgc.nrcan.gc.ca/pub/siteinfo/)
+
+SITE INFORMATION
+
+
+    
+ 
+                      CHWK is a continuously tracking GNSS site. This station is part of the Western Canada Deformation Array (WCDA) as well as the Canadian Active Control System (CACS). Station is located in Chilliwack,  British Columbia.
+
+ The GPS reference mark consists in a
+ stainless steel plate with a forced centered
+ bolt. 
+The stainless steel plate is the top
+ surface of a 1.2 m high stainless steel pedestal,
+ 0.152 m in diameter, mounted on top of a concrete water
+ reservoir. 
+The pedestal is 1.2 metres high,
+ 15.2 cm in diameter.
+ The antenna is fastened  
+ 
+ 
+ 
+  
+ 
+ pedestal, tamper resistant mechanism, etc..
+
+STATION COORDINATES
+
+Reference system : NAD83CSRS
+
+X = -2215259.12 m Y = -3543998.00 m Z =  4802098.59 m
+
+Latitude : N49 09'  23.7718
+Longitude : W122 00'  30.2763
+Ellipsoidal Height :   174.32 m
+
+Geoid Separation (HT2.0) : -18.044 m 
+Orthometric Height (CGVD28) :   192.4 m
+Adjustment Net : M02706
+Epoch : 2002.0
+
+Note(s):
+
+The coordinates above are the most accurately known positions for this station relative to the NAD83CSRS coordinate system. Although these coordinates are very accurate within the Canadian Spatial Reference System and with respect to the defined NAD83 datum, they may not be consistent with NAD83 coordinates officially adopted and published by provincial agencies for monumented geodetic control points.
+
+CGVD28 - Canadian Geodetic Vertical Datum 1928, mean sea level (adopted, public vertical reference system). The average height of the surface of the sea for all stages of the tide. Usually determined by averaging height readings observed hourly over a minimum period of 19 years.
+
+
+GPS EQUIPMENT ON SITE
+
+The following equipment is presently in operation at the site:
+
+GPS Receiver : TRIMBLE NETRS
+Antenna Type : TRM29659.00     SCIS
+Frequency Standard Type : Internal 
+Meteorological Sensor : None
+Antenna Height:  0.000
+
+
+FOR FURTHER INFORMATION CONTACT :
+
+NATURAL RESOURCES CANADA
+GEODETIC SURVEY DIVISION
+INFORMATION SERVICES
+615 Booth Street
+Ottawa, Ontario
+K1A 0E9
+Telephone: 613-995-4410
+Fax: 613-995-3215
+Internet: information@geod.nrcan.gc.ca
+
+2012-02-01
+
+

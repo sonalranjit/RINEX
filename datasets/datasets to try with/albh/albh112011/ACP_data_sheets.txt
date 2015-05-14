@@ -1,0 +1,79 @@
+NRCan GSD - ACP Report
+
+***********************************************
+CANADIAN ACTIVE CONTROL SYSTEM
+ACTIVE CONTROL POINT (NAD83CSRS)
+***********************************************
+
+SITE IDENTIFICATION
+
+Site name : VICTORIA
+ID code : ALBH
+Geodetic Station No : 927000
+Location : Victoria, BC
+
+(Complete WCDA station log sheets available here: ftp://wcda.pgc.nrcan.gc.ca/pub/siteinfo/)
+
+SITE INFORMATION
+
+
+ 
+ 
+ 
+ 
+      ALBH is a continuously tracking GNSS site. This station is part of the Western Canada Deformation Array (WCDA) as well as the Canadian Active Control System(CACS). Station is located near Victoria, British Columbia.
+
+The GNSS reference mark consists of a brass plate with a forced centered stainless steel bolt. 
+The brass plate is embedded on top of a 3.0 m high concrete pier, 0.600 m in diameter.
+ The concrete pier is anchored to  bars to a depth of 0.6 m.
+ The antenna is   
+   
+
+STATION COORDINATES
+
+Reference system : NAD83CSRS
+
+X = -2341332.26 m Y = -3539050.69 m Z =  4745791.20 m
+
+Latitude : N48 23'  23.1953
+Longitude : W123 29'  14.8339
+Ellipsoidal Height :    32.06 m
+
+Geoid Separation (HT2.0) : -18.001 m 
+Orthometric Height (CGVD28) :    50.055 m
+Adjustment Net : M02706
+Epoch : 2002.0
+
+Note(s):
+
+The coordinates above are the most accurately known positions for this station relative to the NAD83CSRS coordinate system. Although these coordinates are very accurate within the Canadian Spatial Reference System and with respect to the defined NAD83 datum, they may not be consistent with NAD83 coordinates officially adopted and published by provincial agencies for monumented geodetic control points.
+
+CGVD28 - Canadian Geodetic Vertical Datum 1928, mean sea level (adopted, public vertical reference system). The average height of the surface of the sea for all stages of the tide. Usually determined by averaging height readings observed hourly over a minimum period of 19 years.
+
+
+GPS EQUIPMENT ON SITE
+
+The following equipment is presently in operation at the site:
+
+GPS Receiver : AOA BENCHMARK ACT
+Antenna Type : Dorne Margolin AOAD/M_T        SCIS
+Frequency Standard Type : Internal 
+Meteorological Sensor : None
+Antenna Height:  0.100
+
+
+FOR FURTHER INFORMATION CONTACT :
+
+NATURAL RESOURCES CANADA
+GEODETIC SURVEY DIVISION
+INFORMATION SERVICES
+615 Booth Street
+Ottawa, Ontario
+K1A 0E9
+Telephone: 613-995-4410
+Fax: 613-995-3215
+Internet: information@geod.nrcan.gc.ca
+
+2012-02-01
+
+

@@ -1,0 +1,77 @@
+NRCan GSD - ACP Report
+
+***********************************************
+CANADIAN ACTIVE CONTROL SYSTEM
+ACTIVE CONTROL POINT (NAD83CSRS)
+***********************************************
+
+SITE IDENTIFICATION
+
+Site name : ALGONQUIN PARK
+ID code : ALGO
+Geodetic Station No : 883160
+Location : Algonquin Park, ON
+
+(Complete National and Regional station log sheets available here: ftp://rtopsdata1.csrs.nrcan.gc.ca/pub/gps/stations_log/)
+
+SITE INFORMATION
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+   ALGO is a continuously tracking GNSS station and is part of the Canadian Active Control System (CACS). The station is colocated with the ALG2 GNSS station, the ALG3 GNSS station and the VLBI reference mark in Algonquin, Ontario. Algonquin Space Complex, Algonquin Park , Ottawa, Ontario.
+
+The GNSS reference mark consists of a brass plate with a forced centered stainless steel bolt embedded on top of a 2.0 m high concrete pier. The concrete pier is anchored to exposed bedrock by steel reinforcing rods.
+
+STATION COORDINATES
+
+Reference system : NAD83CSRS
+
+X =   918130.05 m Y = -4346072.63 m Z =  4561977.89 m
+
+Latitude : N45 57'  20.8478
+Longitude : W78 04'  16.9074
+Ellipsoidal Height :   201.97 m
+
+Geoid Separation (HT2.0) : -35.355 m 
+Orthometric Height (CGVD28) :   237.323 m
+Adjustment Net : M02706
+Epoch : 2002.0
+
+Note(s):
+
+The coordinates above are the most accurately known positions for this station relative to the NAD83CSRS coordinate system. Although these coordinates are very accurate within the Canadian Spatial Reference System and with respect to the defined NAD83 datum, they may not be consistent with NAD83 coordinates officially adopted and published by provincial agencies for monumented geodetic control points.
+
+CGVD28 - Canadian Geodetic Vertical Datum 1928, mean sea level (adopted, public vertical reference system). The average height of the surface of the sea for all stages of the tide. Usually determined by averaging height readings observed hourly over a minimum period of 19 years.
+
+
+GPS EQUIPMENT ON SITE
+
+The following equipment is presently in operation at the site:
+
+GPS Receiver : AOA BENCHMARK ACT
+Antenna Type : Dorne Margolin AOAD/M_T
+Frequency Standard Type : H-Maser 
+Meteorological Sensor : None
+Antenna Height:  0.100
+
+
+FOR FURTHER INFORMATION CONTACT :
+
+NATURAL RESOURCES CANADA
+GEODETIC SURVEY DIVISION
+INFORMATION SERVICES
+615 Booth Street
+Ottawa, Ontario
+K1A 0E9
+Telephone: 613-995-4410
+Fax: 613-995-3215
+Internet: information@geod.nrcan.gc.ca
+
+2012-01-31
+
+

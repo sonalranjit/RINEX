@@ -1,0 +1,71 @@
+NRCan GSD - ACP Report
+
+***********************************************
+CANADIAN ACTIVE CONTROL SYSTEM
+ACTIVE CONTROL POINT (NAD83CSRS)
+***********************************************
+
+SITE IDENTIFICATION
+
+Site name : NANOOSE
+ID code : NANO
+Geodetic Station No : 957000
+Location : Nanoose, BC
+
+(Complete WCDA station log sheets available here: ftp://wcda.pgc.nrcan.gc.ca/pub/siteinfo/)
+
+SITE INFORMATION
+
+NANO is a continuously tracking GNSS site of  as 
+(CACS).  The GNSS station is located on   NANO is a continuously tracking GNSS site. This station is part of the Western Canada Deformation Array (WCDA) as well as the Canadian Active Control System (CACS). Station is located on Winchelsea Island, British Columbia.
+
+The GNSS reference mark consists of a brass plate with a forced centered stainless steel bolt. The brass plate is embedded on top of a 1.5 m high concrete pier, 0.600 m in diameter, anchored in bedrock.     
+
+STATION COORDINATES
+
+Reference system : NAD83CSRS
+
+X = -2335726.11 m Y = -3451609.49 m Z =  4812009.79 m
+
+Latitude : N49 17'  41.3010
+Longitude : W124 05'  11.2637
+Ellipsoidal Height :     6.82 m
+
+Geoid Separation (HT2.0) : -17.121 m 
+Orthometric Height (CGVD28) :    23.9 m
+Adjustment Net : M02706
+Epoch : 2002.0
+
+Note(s):
+
+The coordinates above are the most accurately known positions for this station relative to the NAD83CSRS coordinate system. Although these coordinates are very accurate within the Canadian Spatial Reference System and with respect to the defined NAD83 datum, they may not be consistent with NAD83 coordinates officially adopted and published by provincial agencies for monumented geodetic control points.
+
+CGVD28 - Canadian Geodetic Vertical Datum 1928, mean sea level (adopted, public vertical reference system). The average height of the surface of the sea for all stages of the tide. Usually determined by averaging height readings observed hourly over a minimum period of 19 years.
+
+
+GPS EQUIPMENT ON SITE
+
+The following equipment is presently in operation at the site:
+
+GPS Receiver : LEICA GRX1200GGPRO
+Antenna Type : LEIAT504GG      LEIS
+Frequency Standard Type : Internal 
+Meteorological Sensor : None
+Antenna Height:  0.100
+
+
+FOR FURTHER INFORMATION CONTACT :
+
+NATURAL RESOURCES CANADA
+GEODETIC SURVEY DIVISION
+INFORMATION SERVICES
+615 Booth Street
+Ottawa, Ontario
+K1A 0E9
+Telephone: 613-995-4410
+Fax: 613-995-3215
+Internet: information@geod.nrcan.gc.ca
+
+2012-02-01
+
+
